@@ -1,0 +1,21 @@
+[package]
+name = "Madobe-Ai-Widget"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.24.1" 
+egui_extras = { version = "0.24.1", features = ["all_loaders"] }
+
+rand = "0.8"
+image = "0.24"
+sysinfo = "0.32"
+walkdir = "2.4"
+crossbeam-channel = "0.5"
+
+tray-icon = "0.14"
+
+winapi = { version = "0.3", features = ["winuser", "shobjidl"] }
+
+[package.metadata.win]
+windows_subsystem = "windows"
