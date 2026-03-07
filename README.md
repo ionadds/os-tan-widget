@@ -1,17 +1,15 @@
-# Madobe AI Widget
-*(Future name: OS-Tan Widget)*
+# OS-Tan Widget
 
 <p align="center">
 <img src="assets/png/madobe_ai/banner.png" width="400">
 </p>
 
-Madobe AI Widget is a small desktop widget written in **Rust**.
+OS-Tan Widget is a small desktop widget written in **Rust**.
 
-⚠️ This project is currently **Alpha**.  
-The code may not be perfect — this is my **first serious project**.
+⚠️ This project is currently **Beta**.  
 
 ![Rust](https://img.shields.io/badge/language-Rust-orange)
-![Status](https://img.shields.io/badge/status-Alpha-red)
+![Status](https://img.shields.io/badge/status-Beta-red)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,13 +17,29 @@ The code may not be perfect — this is my **first serious project**.
 
 ## ✨ About
 
-Madobe AI Widget is a fun desktop companion designed for:
+OS-Tan Widget is a fun desktop companion designed for:
 
 - 😊 Improving your mood  
 - 🎀 Adding **moe aesthetics** to your desktop  
 - 🖥 **Moe desktop / ricing desktops**
 
 The widget reacts to your actions and changes its mood.
+
+---
+
+## 👤 Characters
+
+**Available characters:**
+
+- Madobe Ai  
+- Madobe Yuu  
+
+### How to change character
+
+1. Right-click the **magnifying glass icon** in the system tray.
+2. A menu will appear.
+3. Select **Character**.
+4. Choose the character you want.
 
 ---
 
@@ -56,7 +70,8 @@ Check out the **Hikaru Aizawa Widget** — a Silverlight mascot by Microsoft:
 |----|-------|
 | Windows 11 | ✅ Supported |
 | Windows 10 | ✅ Supported |
-| Windows 7–8 | ❓ Not tested |
+| Windows 8.1| ✅ Supported |
+| Windows 7 | 🚧 Planned |
 | Linux | 🚧 Planned |
 | macOS (High Sierra – Tahoe) | 🚧 Planned |
 
@@ -66,15 +81,17 @@ Check out the **Hikaru Aizawa Widget** — a Silverlight mascot by Microsoft:
 
 Install **Microsoft Visual C++ Redistributable**.
 
+---
 
 ## 📜 Licenses
 
 - **Code:** MIT License  
 - **Character Assets:** Microsoft Japan  
 
-> ⚠️ Note: Character assets are owned by Microsoft Japan.  
-> This project only includes code under the MIT license; graphics and characters are **not MIT**.  
-> This is a **non-profit project**.
+> ⚠️ Note: Character assets such as **Madobe Ai** and **Madobe Yuu** are owned by Microsoft Japan.  
+> This project only includes code under the MIT license; graphics and characters are **not covered by MIT**.  
+> This is a **non-profit fan project** and is **not affiliated with or endorsed by Microsoft**.
+
 ---
 
 ## 📢 Author
